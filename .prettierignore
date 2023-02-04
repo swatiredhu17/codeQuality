@@ -1,0 +1,9 @@
+__tests__
+android
+ios
+_bundle
+.vscode
+certificates
+node_modules
+patches
+
